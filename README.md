@@ -15,17 +15,17 @@ cara menjalankan program
 
 berikut hasil eksekusi dari:
 
--pembuatan hashing
+pembuatan hashing, blok untuk hash serta hasil validasi
 <img width="909" height="530" alt="Screenshot 2026-06-20 122337" src="https://github.com/user-attachments/assets/67945b7b-7b88-40c4-9701-7a681d4248ab" />
 
 
 
--Pembuatan blok untuk hash
+
 <img width="574" height="632" alt="Screenshot 2026-06-20 122415" src="https://github.com/user-attachments/assets/a9eea1c9-c39e-4be7-918c-53f146952c8e" />
 
 
 
--pembuatan validasi blockchain
+
 <img width="604" height="685" alt="Screenshot 2026-06-20 122556" src="https://github.com/user-attachments/assets/781fac1b-074b-4e76-98b0-34eace8421b1" />
 
 
