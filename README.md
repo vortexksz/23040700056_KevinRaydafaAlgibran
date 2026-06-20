@@ -20,9 +20,7 @@ pembuatan hashing, blok untuk hash serta hasil validasi
 
 
 
-
 <img width="574" height="632" alt="Screenshot 2026-06-20 122415" src="https://github.com/user-attachments/assets/a9eea1c9-c39e-4be7-918c-53f146952c8e" />
-
 
 
 
